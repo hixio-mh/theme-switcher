@@ -162,7 +162,7 @@ dependencies = [
  "phf 0.8.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "proc-macro2 1.0.12 (registry+https://github.com/rust-lang/crates.io-index)",
  "quote 1.0.4 (registry+https://github.com/rust-lang/crates.io-index)",
- "smallvec 1.4.1 (registry+https://github.com/rust-lang/crates.io-index)",
+ "smallvec 1.8.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "syn 1.0.18 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
@@ -1175,7 +1175,7 @@ dependencies = [
  "phf_codegen 0.8.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "precomputed-hash 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "servo_arc 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
- "smallvec 1.4.1 (registry+https://github.com/rust-lang/crates.io-index)",
+ "smallvec 1.8.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "thin-slice 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
@@ -1249,7 +1249,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
 name = "smallvec"
-version = "1.4.1"
+version = "1.8.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
@@ -1547,7 +1547,7 @@ dependencies = [
 "checksum simba 0.1.5 (registry+https://github.com/rust-lang/crates.io-index)" = "fb931b1367faadea6b1ab1c306a860ec17aaa5fa39f367d0c744e69d971a1fb2"
 "checksum siphasher 0.3.3 (registry+https://github.com/rust-lang/crates.io-index)" = "fa8f3741c7372e75519bd9346068370c9cdaabcc1f9599cbcf2a2719352286b7"
 "checksum slab 0.4.2 (registry+https://github.com/rust-lang/crates.io-index)" = "c111b5bd5695e56cffe5129854aa230b39c93a305372fdbb2668ca2394eea9f8"
-"checksum smallvec 1.4.1 (registry+https://github.com/rust-lang/crates.io-index)" = "3757cb9d89161a2f24e1cf78efa0c1fcff485d18e3f55e0aa3480824ddaa0f3f"
+"checksum smallvec 1.8.0 (registry+https://github.com/rust-lang/crates.io-index)" = "f2dd574626839106c320a323308629dcb1acfc96e32a8cba364ddc61ac23ee83"
 "checksum stable_deref_trait 1.2.0 (registry+https://github.com/rust-lang/crates.io-index)" = "a8f112729512f8e442d81f95a8a7ddf2b7c6b8a1a6f509a95864142b30cab2d3"
 "checksum string_cache 0.8.0 (registry+https://github.com/rust-lang/crates.io-index)" = "2940c75beb4e3bf3a494cef919a747a2cb81e52571e212bfbd185074add7208a"
 "checksum string_cache_codegen 0.5.1 (registry+https://github.com/rust-lang/crates.io-index)" = "f24c8e5e19d22a726626f1a5e16fe15b132dcf21d10177fa5a45ce7962996b97"
